@@ -1,0 +1,76 @@
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csprojResolveAssemblyReference.cache
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.login.resources
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.Cache
+D:\visual studio\project uas\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+D:\visual studio\project uas\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.daftar.resources
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.peminjaman.resources
+D:\visual studio\project uas\perpustakaan\perpustakaan\obj\Debug\perpustakaan.app.resources
+D:\visual studio\project uas\perpustakaan\perpustakaan\bin\Debug\MySql.Data.DLL
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.app.resources
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.daftar.resources
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.login.resources
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.peminjaman.resources
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.Cache
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.akun.resources
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pengembalian.resources
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.about.resources
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csprojResolveAssemblyReference.cache
+D:\visual studio\project uas REBORN\perpustakaan\perpustakaan\bin\Debug\MySql.Data.DLL
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+G:\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+G:\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+G:\perpustakaan\perpustakaan\bin\Debug\MySql.Data.DLL
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csprojResolveAssemblyReference.cache
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.about.resources
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.akun.resources
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.app.resources
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.daftar.resources
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.login.resources
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.peminjaman.resources
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pengembalian.resources
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+G:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.Cache
+F:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+F:\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+D:\BACKUP\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+D:\BACKUP\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+D:\BACKUP\perpustakaan\perpustakaan\bin\Debug\MySql.Data.DLL
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csprojResolveAssemblyReference.cache
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.about.resources
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.akun.resources
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.app.resources
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.daftar.resources
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.login.resources
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.peminjaman.resources
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pengembalian.resources
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+D:\BACKUP\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.Cache
+G:\VISUAL STUDIO\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+G:\VISUAL STUDIO\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\bin\Debug\MySql.Data.dll
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csprojResolveAssemblyReference.cache
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.about.resources
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.akun.resources
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.app.resources
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.daftar.resources
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.login.resources
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.peminjaman.resources
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pengembalian.resources
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Properties.Resources.resources
+C:\Users\Ipeenk\OneDrive\Kuliah\Visual Studio 2\perpustakaan\perpustakaan\obj\Debug\perpustakaan.csproj.GenerateResource.Cache
