@@ -1,0 +1,45 @@
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.exe.config
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.exe
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.pdb
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.Design.dll
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.dll
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.csprojResolveAssemblyReference.cache
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Properties.Resources.resources
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.csproj.GenerateResource.Cache
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.exe
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.pdb
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.MenuUtama.resources
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Login.resources
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Register.resources
+c:\users\ipeenk\documents\visual studio 2015\Projects\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MySql.Data.DLL
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.exe.config
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.exe
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.pdb
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.exe
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.pdb
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.Design.dll
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.dll
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.Fonts.dll
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.csprojResolveAssemblyReference.cache
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.MenuUtama.resources
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Login.resources
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Register.resources
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Properties.Resources.resources
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.transaksi.resources
+D:\visual studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.csproj.GenerateResource.Cache
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.exe.config
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.exe
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.pdb
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.exe
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\Member Sedulur Team v2.pdb
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.Design.dll
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.dll
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\bin\Debug\MetroFramework.Fonts.dll
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.MenuUtama.resources
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Login.resources
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Register.resources
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.Properties.Resources.resources
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member_Sedulur_Team_v2.transaksi.resources
+E:\Visual Studio\Member Sedulur Team v2\Member Sedulur Team v2\obj\Debug\Member Sedulur Team v2.csproj.GenerateResource.Cache
