@@ -1,0 +1,22 @@
+c:\users\ipeenk\documents\visual studio 2013\Projects\buku\buku\bin\Debug\buku.exe.config
+C:\Users\Ipeenk\Documents\Visual Studio 2013\Projects\buku\buku\bin\Debug\buku.exe
+C:\Users\Ipeenk\Documents\Visual Studio 2013\Projects\buku\buku\bin\Debug\buku.pdb
+C:\Users\Ipeenk\Documents\Visual Studio 2013\Projects\buku\buku\obj\Debug\buku.csprojResolveAssemblyReference.cache
+C:\Users\Ipeenk\Documents\Visual Studio 2013\Projects\buku\buku\obj\Debug\buku.Form1.resources
+C:\Users\Ipeenk\Documents\Visual Studio 2013\Projects\buku\buku\obj\Debug\buku.Properties.Resources.resources
+C:\Users\Ipeenk\Documents\Visual Studio 2013\Projects\buku\buku\obj\Debug\buku.csproj.GenerateResource.Cache
+C:\Users\Ipeenk\Documents\Visual Studio 2013\Projects\buku\buku\obj\Debug\buku.exe
+C:\Users\Ipeenk\Documents\Visual Studio 2013\Projects\buku\buku\obj\Debug\buku.pdb
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\bin\Debug\buku.exe.config
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\obj\Debug\buku.exe
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\obj\Debug\buku.pdb
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\bin\Debug\buku.exe
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\bin\Debug\buku.pdb
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\bin\Debug\MySql.Data.dll
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\obj\Debug\buku.csprojResolveAssemblyReference.cache
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\obj\Debug\buku.Form1.resources
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\obj\Debug\buku.Properties.Resources.resources
+D:\[a\[POLTEK]\[Semester 2\VISUAL STUDIO\Latihan\buku\buku\obj\Debug\buku.csproj.GenerateResource.Cache
+C:\Users\Ipeenk\OneDrive\Kuliah\[Semester 3]\Visual Studio\[FREE UAS] Irfan Chandra Irawan (17040129)\buku\buku\bin\Debug\buku.exe.config
+C:\Users\Ipeenk\OneDrive\Kuliah\[Semester 3]\Visual Studio\[FREE UAS] Irfan Chandra Irawan (17040129)\buku\buku\obj\Debug\buku.exe
+C:\Users\Ipeenk\OneDrive\Kuliah\[Semester 3]\Visual Studio\[FREE UAS] Irfan Chandra Irawan (17040129)\buku\buku\obj\Debug\buku.pdb
